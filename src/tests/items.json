@@ -1,0 +1,1202 @@
+[
+  {
+    "_id": "tt2356777",
+    "imdb_id": "tt2356777",
+    "tvdb_id": "270633",
+    "title": "True Detective",
+    "year": "2014",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/046/375/fanarts/original/f8c6f152b2.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/046/375/fanarts/original/f8c6f152b2.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/046/375/posters/original/c4b1402da6.jpg"
+    },
+    "slug": "true-detective",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 9898,
+      "percentage": 90,
+      "watching": 20
+    },
+    "num_seasons": 3,
+    "last_updated": 1439982064581,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt0898266",
+    "imdb_id": "tt0898266",
+    "tvdb_id": "80379",
+    "title": "The Big Bang Theory",
+    "year": "2007",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/001/409/fanarts/original/cff0b01ee7.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/001/409/fanarts/original/cff0b01ee7.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/001/409/posters/original/c336773ac7.jpg"
+    },
+    "slug": "the-big-bang-theory",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 31031,
+      "percentage": 86,
+      "watching": 17
+    },
+    "num_seasons": 8,
+    "last_updated": 1439982097694,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt4158110",
+    "imdb_id": "tt4158110",
+    "tvdb_id": "289590",
+    "title": "Mr. Robot",
+    "year": "2015",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/093/720/fanarts/original/102502e636.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/093/720/fanarts/original/102502e636.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/093/720/posters/original/e90844dd99.jpg"
+    },
+    "slug": "mr-robot",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 1505,
+      "percentage": 90,
+      "watching": 16
+    },
+    "num_seasons": 1,
+    "last_updated": 1439982064909,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt1567432",
+    "imdb_id": "tt1567432",
+    "tvdb_id": "175001",
+    "title": "Teen Wolf",
+    "year": "2011",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/034/375/fanarts/original/e1abc05391.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/034/375/fanarts/original/e1abc05391.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/034/375/posters/original/3990edbc4c.jpg"
+    },
+    "slug": "teen-wolf-2011",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 4457,
+      "percentage": 82,
+      "watching": 14
+    },
+    "num_seasons": 5,
+    "last_updated": 1439982064865,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt2249007",
+    "imdb_id": "tt2249007",
+    "tvdb_id": "259866",
+    "title": "Ray Donovan",
+    "year": "2013",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/001/414/fanarts/original/b53a89ae4a.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/001/414/fanarts/original/b53a89ae4a.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/001/414/posters/original/52a56eb42c.jpg"
+    },
+    "slug": "ray-donovan",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 2133,
+      "percentage": 80,
+      "watching": 13
+    },
+    "num_seasons": 3,
+    "last_updated": 1439979720675,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt1632701",
+    "imdb_id": "tt1632701",
+    "tvdb_id": "247808",
+    "title": "Suits",
+    "year": "2011",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/037/522/fanarts/original/bfd76ec260.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/037/522/fanarts/original/bfd76ec260.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/037/522/posters/original/0e6117705c.jpg"
+    },
+    "slug": "suits",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 12738,
+      "percentage": 87,
+      "watching": 13
+    },
+    "num_seasons": 6,
+    "last_updated": 1439982063848,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt2654620",
+    "imdb_id": "tt2654620",
+    "tvdb_id": "276564",
+    "title": "The Strain",
+    "year": "2014",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/047/350/fanarts/original/7b62ab6b71.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/047/350/fanarts/original/7b62ab6b71.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/047/350/posters/original/126c3e8429.jpg"
+    },
+    "slug": "the-strain",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 2825,
+      "percentage": 75,
+      "watching": 12
+    },
+    "num_seasons": 2,
+    "last_updated": 1439982062268,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt1462059",
+    "imdb_id": "tt1462059",
+    "tvdb_id": "205281",
+    "title": "Falling Skies",
+    "year": "2011",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/034/818/fanarts/original/cc3a8182e9.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/034/818/fanarts/original/cc3a8182e9.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/034/818/posters/original/f4c7a0bcac.jpg"
+    },
+    "slug": "falling-skies",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 6739,
+      "percentage": 76,
+      "watching": 12
+    },
+    "num_seasons": 6,
+    "last_updated": 1439982064143,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt3250026",
+    "imdb_id": "tt3250026",
+    "tvdb_id": "283318",
+    "title": "Zoo",
+    "year": "2015",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/078/803/fanarts/original/b368c22d25.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/078/803/fanarts/original/b368c22d25.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/078/803/posters/original/7c0684b6f3.jpg"
+    },
+    "slug": "zoo",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 104,
+      "percentage": 73,
+      "watching": 12
+    },
+    "num_seasons": 1,
+    "last_updated": 1439982062997,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt2372162",
+    "imdb_id": "tt2372162",
+    "tvdb_id": "264586",
+    "title": "Orange Is the New Black",
+    "year": "2013",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/001/415/fanarts/original/194f967c76.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/001/415/fanarts/original/194f967c76.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/001/415/posters/original/cf19142260.jpg"
+    },
+    "slug": "orange-is-the-new-black",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 9875,
+      "percentage": 84,
+      "watching": 10
+    },
+    "num_seasons": 4,
+    "last_updated": 1439982065066,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt4159076",
+    "imdb_id": "tt4159076",
+    "tvdb_id": "292174",
+    "title": "Dark Matter",
+    "year": "2015",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/096/220/fanarts/original/8aab3b89cb.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/096/220/fanarts/original/8aab3b89cb.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/096/220/posters/original/dc4e3d4c13.jpg"
+    },
+    "slug": "dark-matter",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 311,
+      "percentage": 72,
+      "watching": 10
+    },
+    "num_seasons": 2,
+    "last_updated": 1439982070488,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt2402207",
+    "imdb_id": "tt2402207",
+    "tvdb_id": "269533",
+    "title": "The Last Ship",
+    "year": "2014",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/060/360/fanarts/original/abc0a1c936.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/060/360/fanarts/original/abc0a1c936.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/060/360/posters/original/522aa0d783.jpg"
+    },
+    "slug": "the-last-ship",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 2052,
+      "percentage": 76,
+      "watching": 10
+    },
+    "num_seasons": 3,
+    "last_updated": 1439982064797,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt1553656",
+    "imdb_id": "tt1553656",
+    "tvdb_id": "264492",
+    "title": "Under the Dome",
+    "year": "2013",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/046/073/fanarts/original/66a7162eb1.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/046/073/fanarts/original/66a7162eb1.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/046/073/posters/original/7a17e4fed4.jpg"
+    },
+    "slug": "under-the-dome",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 8235,
+      "percentage": 71,
+      "watching": 9
+    },
+    "num_seasons": 4,
+    "last_updated": 1439982065290,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt2467372",
+    "imdb_id": "tt2467372",
+    "tvdb_id": "269586",
+    "title": "Brooklyn Nine-Nine",
+    "year": "2013",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/048/587/fanarts/original/e39a4d1c5f.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/048/587/fanarts/original/e39a4d1c5f.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/048/587/posters/original/efa5fe0aaf.jpg"
+    },
+    "slug": "brooklyn-nine-nine",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 4392,
+      "percentage": 82,
+      "watching": 9
+    },
+    "num_seasons": 2,
+    "last_updated": 1439982110324,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt3595806",
+    "imdb_id": "tt3595806",
+    "tvdb_id": "281708",
+    "title": "Proof",
+    "year": "2015",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/077/822/fanarts/original/ad970bd827.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/077/822/fanarts/original/ad970bd827.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/077/822/posters/original/f90fe56705.jpg"
+    },
+    "slug": "proof",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 36,
+      "percentage": 73,
+      "watching": 9
+    },
+    "num_seasons": 1,
+    "last_updated": 1439979720718,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt0944947",
+    "imdb_id": "tt0944947",
+    "tvdb_id": "121361",
+    "title": "Game of Thrones",
+    "year": "2011",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/001/390/fanarts/original/39f9936d62.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/001/390/fanarts/original/39f9936d62.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/001/390/posters/original/e2e8d04f11.jpg"
+    },
+    "slug": "game-of-thrones",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 39720,
+      "percentage": 94,
+      "watching": 9
+    },
+    "num_seasons": 8,
+    "last_updated": 1439982065032,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt2861424",
+    "imdb_id": "tt2861424",
+    "tvdb_id": "275274",
+    "title": "Rick and Morty",
+    "year": "2013",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/069/829/fanarts/original/d734c5227d.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/069/829/fanarts/original/d734c5227d.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/069/829/posters/original/57ed7ecae0.jpg"
+    },
+    "slug": "rick-and-morty",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 1324,
+      "percentage": 91,
+      "watching": 9
+    },
+    "num_seasons": 2,
+    "last_updated": 1439979725870,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt1520211",
+    "imdb_id": "tt1520211",
+    "tvdb_id": "153021",
+    "title": "The Walking Dead",
+    "year": "2010",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/001/393/fanarts/original/fc68b3b649.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/001/393/fanarts/original/fc68b3b649.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/001/393/posters/original/de0ca49881.jpg"
+    },
+    "slug": "the-walking-dead",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 29221,
+      "percentage": 86,
+      "watching": 9
+    },
+    "num_seasons": 7,
+    "last_updated": 1439979767882,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt2568204",
+    "imdb_id": "tt2568204",
+    "tvdb_id": "268094",
+    "title": "Tyrant",
+    "year": "2014",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/060/506/fanarts/original/22c4ec608c.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/060/506/fanarts/original/22c4ec608c.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/060/506/posters/original/6c2eac4d59.jpg"
+    },
+    "slug": "tyrant",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 709,
+      "percentage": 78,
+      "watching": 8
+    },
+    "num_seasons": 2,
+    "last_updated": 1439982062187,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt1551632",
+    "imdb_id": "tt1551632",
+    "tvdb_id": "161461",
+    "title": "Rizzoli & Isles",
+    "year": "2010",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/032/753/fanarts/original/98f3cac8e9.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/032/753/fanarts/original/98f3cac8e9.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/032/753/posters/original/8420d3c36e.jpg"
+    },
+    "slug": "rizzoli-isles",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 1428,
+      "percentage": 81,
+      "watching": 8
+    },
+    "num_seasons": 4,
+    "last_updated": 1439982064954,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt0452046",
+    "imdb_id": "tt0452046",
+    "tvdb_id": "75710",
+    "title": "Criminal Minds",
+    "year": "2005",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/004/033/fanarts/original/9af0343899.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/004/033/fanarts/original/9af0343899.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/004/033/posters/original/2988f878b4.jpg"
+    },
+    "slug": "criminal-minds",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 4305,
+      "percentage": 83,
+      "watching": 8
+    },
+    "num_seasons": 7,
+    "last_updated": 1439982118326,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt0446809",
+    "imdb_id": "tt0446809",
+    "tvdb_id": "78957",
+    "title": "Deadliest Catch",
+    "year": "2005",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/002/596/fanarts/original/1d4e9ac6c4.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/002/596/fanarts/original/1d4e9ac6c4.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/002/596/posters/original/1598627542.jpg"
+    },
+    "slug": "deadliest-catch",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 458,
+      "percentage": 78,
+      "watching": 8
+    },
+    "num_seasons": 10,
+    "last_updated": 1439982124610,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt0413573",
+    "imdb_id": "tt0413573",
+    "tvdb_id": "73762",
+    "title": "Grey's Anatomy",
+    "year": "2005",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/001/407/fanarts/original/60a0adba2f.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/001/407/fanarts/original/60a0adba2f.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/001/407/posters/original/bb5a072b1a.jpg"
+    },
+    "slug": "grey-s-anatomy",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 6948,
+      "percentage": 79,
+      "watching": 8
+    },
+    "num_seasons": 10,
+    "last_updated": 1439982150781,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt1839578",
+    "imdb_id": "tt1839578",
+    "tvdb_id": "248742",
+    "title": "Person of Interest",
+    "year": "2011",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/001/402/fanarts/original/587608a506.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/001/402/fanarts/original/587608a506.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/001/402/posters/original/30a092b479.jpg"
+    },
+    "slug": "person-of-interest",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 9621,
+      "percentage": 85,
+      "watching": 8
+    },
+    "num_seasons": 4,
+    "last_updated": 1439979713591,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt3281796",
+    "imdb_id": "tt3281796",
+    "tvdb_id": "276562",
+    "title": "Power",
+    "year": "2014",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/054/306/fanarts/original/593bae0a09.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/054/306/fanarts/original/593bae0a09.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/054/306/posters/original/b53099c085.jpg"
+    },
+    "slug": "power",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 346,
+      "percentage": 78,
+      "watching": 8
+    },
+    "num_seasons": 2,
+    "last_updated": 1439982063553,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt0903747",
+    "imdb_id": "tt0903747",
+    "tvdb_id": "81189",
+    "title": "Breaking Bad",
+    "year": "2008",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/001/388/fanarts/original/fdbc0cb02d.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/001/388/fanarts/original/fdbc0cb02d.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/001/388/posters/original/fa39b59954.jpg"
+    },
+    "slug": "breaking-bad",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 34311,
+      "percentage": 95,
+      "watching": 7
+    },
+    "num_seasons": 5,
+    "last_updated": 1439982104205,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt4122068",
+    "imdb_id": "tt4122068",
+    "tvdb_id": "292124",
+    "title": "Humans",
+    "year": "2015",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/096/180/fanarts/original/c36da0a432.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/096/180/fanarts/original/c36da0a432.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/096/180/posters/original/bb5aabe2f3.jpg"
+    },
+    "slug": "humans",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 459,
+      "percentage": 82,
+      "watching": 7
+    },
+    "num_seasons": 1,
+    "last_updated": 1439982168422,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt0383126",
+    "imdb_id": "tt0383126",
+    "tvdb_id": "73388",
+    "title": "MythBusters",
+    "year": "2003",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/001/419/fanarts/original/3496ef61c4.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/001/419/fanarts/original/3496ef61c4.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/001/419/posters/original/6b6059d0f9.jpg"
+    },
+    "slug": "mythbusters",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 3419,
+      "percentage": 86,
+      "watching": 7
+    },
+    "num_seasons": 13,
+    "last_updated": 1439982207845,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt2431438",
+    "imdb_id": "tt2431438",
+    "tvdb_id": "268156",
+    "title": "Sense8",
+    "year": "2015",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/070/384/fanarts/original/d4313f373e.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/070/384/fanarts/original/d4313f373e.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/070/384/posters/original/4a32681b35.jpg"
+    },
+    "slug": "sense8",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 1740,
+      "percentage": 86,
+      "watching": 6
+    },
+    "num_seasons": 2,
+    "last_updated": 1439982065222,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt3952222",
+    "imdb_id": "tt3952222",
+    "tvdb_id": "281534",
+    "title": "Killjoys",
+    "year": "2015",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/077/712/fanarts/original/fe2c0dd419.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/077/712/fanarts/original/fe2c0dd419.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/077/712/posters/original/b289c94aab.jpg"
+    },
+    "slug": "killjoys",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 170,
+      "percentage": 72,
+      "watching": 6
+    },
+    "num_seasons": 1,
+    "last_updated": 1439982064909,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt2364582",
+    "imdb_id": "tt2364582",
+    "tvdb_id": "263365",
+    "title": "Marvel's Agents of S.H.I.E.L.D.",
+    "year": "2013",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/001/394/fanarts/original/2cc61c8eea.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/001/394/fanarts/original/2cc61c8eea.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/001/394/posters/original/3b6113aed4.jpg"
+    },
+    "slug": "marvel-s-agents-of-s-h-i-e-l-d",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 9769,
+      "percentage": 78,
+      "watching": 6
+    },
+    "num_seasons": 2,
+    "last_updated": 1439982194419,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt2741602",
+    "imdb_id": "tt2741602",
+    "tvdb_id": "266189",
+    "title": "The Blacklist",
+    "year": "2013",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/046/676/fanarts/original/808c567a7e.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/046/676/fanarts/original/808c567a7e.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/046/676/posters/original/47a0145f39.jpg"
+    },
+    "slug": "the-blacklist",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 6703,
+      "percentage": 82,
+      "watching": 6
+    },
+    "num_seasons": 2,
+    "last_updated": 1439982097696,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt0460627",
+    "imdb_id": "tt0460627",
+    "tvdb_id": "75682",
+    "title": "Bones",
+    "year": "2005",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/001/898/fanarts/original/8cb7a930dd.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/001/898/fanarts/original/8cb7a930dd.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/001/898/posters/original/32de53cb4b.jpg"
+    },
+    "slug": "bones",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 6009,
+      "percentage": 81,
+      "watching": 6
+    },
+    "num_seasons": 10,
+    "last_updated": 1439982104497,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt2189221",
+    "imdb_id": "tt2189221",
+    "tvdb_id": "255326",
+    "title": "Defiance",
+    "year": "2013",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/051/377/fanarts/original/cd008448cc.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/051/377/fanarts/original/cd008448cc.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/051/377/posters/original/ac57996b40.jpg"
+    },
+    "slug": "defiance",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 3097,
+      "percentage": 71,
+      "watching": 6
+    },
+    "num_seasons": 3,
+    "last_updated": 1439982124520,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt3107288",
+    "imdb_id": "tt3107288",
+    "tvdb_id": "279121",
+    "title": "The Flash (2014)",
+    "year": "2014",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/060/300/fanarts/original/8a566bf90b.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/060/300/fanarts/original/8a566bf90b.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/060/300/posters/original/79bd96a4d3.jpg"
+    },
+    "slug": "the-flash-2014",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 6382,
+      "percentage": 83,
+      "watching": 6
+    },
+    "num_seasons": 1,
+    "last_updated": 1439982138491,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt2243973",
+    "imdb_id": "tt2243973",
+    "tvdb_id": "259063",
+    "title": "Hannibal",
+    "year": "2013",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/039/825/fanarts/original/9f4d68aaf8.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/039/825/fanarts/original/9f4d68aaf8.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/039/825/posters/original/41fe77db1f.jpg"
+    },
+    "slug": "hannibal",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 8038,
+      "percentage": 86,
+      "watching": 6
+    },
+    "num_seasons": 3,
+    "last_updated": 1439982151697,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt0460649",
+    "imdb_id": "tt0460649",
+    "tvdb_id": "75760",
+    "title": "How I Met Your Mother",
+    "year": "2005",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/001/095/fanarts/original/9b11bce83a.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/001/095/fanarts/original/9b11bce83a.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/001/095/posters/original/4922cab2bc.jpg"
+    },
+    "slug": "how-i-met-your-mother",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 21838,
+      "percentage": 85,
+      "watching": 6
+    },
+    "num_seasons": 6,
+    "last_updated": 1439982164360,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt3921180",
+    "imdb_id": "tt3921180",
+    "tvdb_id": "294417",
+    "title": "Scream",
+    "year": "2015",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/098/152/fanarts/original/d8bcc9056c.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/098/152/fanarts/original/d8bcc9056c.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/098/152/posters/original/4cfb7d6bba.jpg"
+    },
+    "slug": "scream",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 143,
+      "percentage": 73,
+      "watching": 6
+    },
+    "num_seasons": 1,
+    "last_updated": 1439982063031,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt0096697",
+    "imdb_id": "tt0096697",
+    "tvdb_id": "71663",
+    "title": "The Simpsons",
+    "year": "1989",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/000/455/fanarts/original/a286b2a2c4.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/000/455/fanarts/original/a286b2a2c4.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/000/455/posters/original/8b737766ea.jpg"
+    },
+    "slug": "the-simpsons",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 10340,
+      "percentage": 86,
+      "watching": 6
+    },
+    "num_seasons": 10,
+    "last_updated": 1439979739627,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt4341500",
+    "imdb_id": "tt4341500",
+    "tvdb_id": "294560",
+    "title": "Wet Hot American Summer",
+    "year": "2015",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/098/242/fanarts/original/3463638665.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/098/242/fanarts/original/3463638665.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/098/242/posters/original/bd89ba3c63.jpg"
+    },
+    "slug": "wet-hot-american-summer",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 138,
+      "percentage": 75,
+      "watching": 5
+    },
+    "num_seasons": 1,
+    "last_updated": 1439982062404,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt2661044",
+    "imdb_id": "tt2661044",
+    "tvdb_id": "268592",
+    "title": "The 100",
+    "year": "2014",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/048/562/fanarts/original/88092e5054.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/048/562/fanarts/original/88092e5054.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/048/562/posters/original/2554330dad.jpg"
+    },
+    "slug": "the-100",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 4887,
+      "percentage": 79,
+      "watching": 5
+    },
+    "num_seasons": 2,
+    "last_updated": 1439982071605,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt1486217",
+    "imdb_id": "tt1486217",
+    "tvdb_id": "110381",
+    "title": "Archer (2009)",
+    "year": "2009",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/010/234/fanarts/original/e72543a2e6.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/010/234/fanarts/original/e72543a2e6.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/010/234/posters/original/ecadfb0c0e.jpg"
+    },
+    "slug": "archer",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 5248,
+      "percentage": 89,
+      "watching": 5
+    },
+    "num_seasons": 6,
+    "last_updated": 1439982084040,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt1561755",
+    "imdb_id": "tt1561755",
+    "tvdb_id": "194031",
+    "title": "Bob's Burgers",
+    "year": "2011",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/032/585/fanarts/original/ed2d6f3056.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/032/585/fanarts/original/ed2d6f3056.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/032/585/posters/original/807ea4f2e3.jpg"
+    },
+    "slug": "bob-s-burgers",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 2281,
+      "percentage": 83,
+      "watching": 5
+    },
+    "num_seasons": 5,
+    "last_updated": 1439982098573,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt1219024",
+    "imdb_id": "tt1219024",
+    "tvdb_id": "83462",
+    "title": "Castle",
+    "year": "2009",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/001/410/fanarts/original/bd2fb2a277.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/001/410/fanarts/original/bd2fb2a277.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/001/410/posters/original/f3829c26fb.jpg"
+    },
+    "slug": "castle",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 8048,
+      "percentage": 85,
+      "watching": 5
+    },
+    "num_seasons": 7,
+    "last_updated": 1439982110387,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt2226342",
+    "imdb_id": "tt2226342",
+    "tvdb_id": "261802",
+    "title": "Devious Maids",
+    "year": "2013",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/043/997/fanarts/original/794a26eaa5.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/043/997/fanarts/original/794a26eaa5.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/043/997/posters/original/46f92759d1.jpg"
+    },
+    "slug": "devious-maids",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 779,
+      "percentage": 78,
+      "watching": 5
+    },
+    "num_seasons": 3,
+    "last_updated": 1439982124801,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt2191671",
+    "imdb_id": "tt2191671",
+    "tvdb_id": "255316",
+    "title": "Elementary",
+    "year": "2012",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/001/406/fanarts/original/99a1d4777c.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/001/406/fanarts/original/99a1d4777c.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/001/406/posters/original/4772c3f91f.jpg"
+    },
+    "slug": "elementary",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 7592,
+      "percentage": 81,
+      "watching": 5
+    },
+    "num_seasons": 3,
+    "last_updated": 1439982131520,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt0182576",
+    "imdb_id": "tt0182576",
+    "tvdb_id": "75978",
+    "title": "Family Guy",
+    "year": "1999",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/001/425/fanarts/original/acc8c9aff4.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/001/425/fanarts/original/acc8c9aff4.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/001/425/posters/original/5a5a4238a6.jpg"
+    },
+    "slug": "family-guy",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 9378,
+      "percentage": 83,
+      "watching": 5
+    },
+    "num_seasons": 11,
+    "last_updated": 1439982137396,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt0149460",
+    "imdb_id": "tt0149460",
+    "tvdb_id": "73871",
+    "title": "Futurama",
+    "year": "1999",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/000/614/fanarts/original/08601ee46c.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/000/614/fanarts/original/08601ee46c.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/000/614/posters/original/484345ff2e.jpg"
+    },
+    "slug": "futurama",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 8714,
+      "percentage": 89,
+      "watching": 5
+    },
+    "num_seasons": 2,
+    "last_updated": 1439982144487,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt2543312",
+    "imdb_id": "tt2543312",
+    "tvdb_id": "271910",
+    "title": "Halt and Catch Fire",
+    "year": "2014",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/059/262/fanarts/original/755fc0b182.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/059/262/fanarts/original/755fc0b182.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/059/262/posters/original/f952875de9.jpg"
+    },
+    "slug": "halt-and-catch-fire",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 1328,
+      "percentage": 81,
+      "watching": 5
+    },
+    "num_seasons": 2,
+    "last_updated": 1439982156257,
+    "type": "show",
+    "provider": "TVApi"
+  },
+  {
+    "_id": "tt3530232",
+    "imdb_id": "tt3530232",
+    "tvdb_id": "278518",
+    "title": "Last Week Tonight with John Oliver",
+    "year": "2014",
+    "images": {
+      "banner": "https://walter.trakt.us/images/shows/000/060/267/fanarts/original/164dbf84fb.jpg",
+      "fanart": "https://walter.trakt.us/images/shows/000/060/267/fanarts/original/164dbf84fb.jpg",
+      "poster": "https://walter.trakt.us/images/shows/000/060/267/posters/original/4a8864a84b.jpg"
+    },
+    "slug": "last-week-tonight-with-john-oliver",
+    "rating": {
+      "hated": "0",
+      "loved": "0",
+      "votes": 1327,
+      "percentage": 92,
+      "watching": 5
+    },
+    "num_seasons": 3,
+    "last_updated": 1439982176390,
+    "type": "show",
+    "provider": "TVApi"
+  }
+]

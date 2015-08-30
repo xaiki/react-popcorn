@@ -1,0 +1,112 @@
+{
+  "type": "movie",
+  "imdb_id": "tt2199571",
+  "title": "Run All Night",
+  "year": 2015,
+  "genre": [
+    "Action",
+    "Crime"
+  ],
+  "rating": 6.8,
+  "runtime": 114,
+  "image": "http://s.ynet.io/assets/images/movies/run_all_night_2015/medium-cover.jpg",
+  "cover": "http://s.ynet.io/assets/images/movies/run_all_night_2015/large-cover.jpg",
+  "backdrop": "http://s.ynet.io/assets/images/movies/run_all_night_2015/background_original.jpg",
+  "synopsis": "Professional Brooklyn hitman Jimmy Conlon is more commonly known as THE GRAVEDIGGER. Jimmy was a mob hit-man, who was best friends with his boss Sean Maguire. But when Jimmy's son, Michael, is marked for death by the mob, Jimmy must go up against Sean to protect Michael at all costs. Together, he and Michael must avoid corrupt cops, contract killers and the mob to survive the night.",
+  "trailer": "https://www.youtube.com/watch?v=7uDuFh-nC-c",
+  "certification": "R",
+  "actors": [
+    {
+      "name": "Liam Neeson",
+      "character_name": "Jimmy Conlon",
+      "small_image": "http://s.ynet.io/assets/images/actors/thumb/nm0000553.jpg",
+      "medium_image": "http://s.ynet.io/assets/images/actors/nm0000553.jpg",
+      "imdb_code": "nm0000553"
+    },
+    {
+      "name": "Ed Harris",
+      "character_name": "Shawn Maguire",
+      "small_image": "http://s.ynet.io/assets/images/actors/thumb/nm0000438.jpg",
+      "medium_image": "http://s.ynet.io/assets/images/actors/nm0000438.jpg",
+      "imdb_code": "nm0000438"
+    },
+    {
+      "name": "Joel Kinnaman",
+      "character_name": "Mike Conlon",
+      "small_image": "http://s.ynet.io/assets/images/actors/thumb/nm1172478.jpg",
+      "medium_image": "http://s.ynet.io/assets/images/actors/nm1172478.jpg",
+      "imdb_code": "nm1172478"
+    },
+    {
+      "name": "Vincent D'Onofrio",
+      "character_name": "Detective Harding",
+      "small_image": "http://s.ynet.io/assets/images/actors/thumb/nm0000352.jpg",
+      "medium_image": "http://s.ynet.io/assets/images/actors/nm0000352.jpg",
+      "imdb_code": "nm0000352"
+    }
+  ],
+  "directors": [
+    {
+      "name": "Jaume Collet-Serra",
+      "small_image": "http://s.ynet.io/assets/images/directors/thumb/nm1429471.jpg",
+      "medium_image": "http://s.ynet.io/assets/images/directors/nm1429471.jpg",
+      "imdb_code": "nm1429471"
+    }
+  ],
+  "torrents": {
+    "720p": {
+      "url": "http://yts.to/torrent/download/0BAB52816F1586CB2BADF444A649A8F01ED30D5C.torrent",
+      "magnet": "magnet:?xt=urn:btih:0BAB52816F1586CB2BADF444A649A8F01ED30D5C&tr=udp://open.demonii.com:1337&tr=udp://tracker.coppersurfer.tk:6969",
+      "size": 854083027,
+      "filesize": "814.52 MB",
+      "seed": 4188,
+      "peer": 534,
+      "health": "excellent"
+    },
+    "1080p": {
+      "url": "http://yts.to/torrent/download/9D535CC988C98BBC45630F0CD2EAC7021EAEC303.torrent",
+      "magnet": "magnet:?xt=urn:btih:9D535CC988C98BBC45630F0CD2EAC7021EAEC303&tr=udp://open.demonii.com:1337&tr=udp://tracker.coppersurfer.tk:6969",
+      "size": 1976531386,
+      "filesize": "1.84 GB",
+      "seed": 1885,
+      "peer": 389,
+      "health": "good"
+    }
+  },
+  "provider": "Yts",
+  "subtitle": {
+    "en": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49303.zip",
+    "pt-br": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49388.zip",
+    "da": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49665.zip",
+    "nl": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49307.zip",
+    "fa": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49305.zip",
+    "fi": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49390.zip",
+    "el": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49385.zip",
+    "id": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49306.zip",
+    "pt": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49326.zip",
+    "es": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49363.zip",
+    "tr": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49743.zip",
+    "vi": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49309.zip",
+    "fr": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49444.zip",
+    "sr": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49327.zip",
+    "ar": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49447.zip",
+    "ro": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49328.zip",
+    "hr": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49394.zip",
+    "he": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49396.zip",
+    "no": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-56517.zip",
+    "sv": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49395.zip",
+    "ru": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-52821.zip",
+    "zh": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49383.zip",
+    "pl": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49813.zip",
+    "sl": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-60614.zip",
+    "hu": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49866.zip",
+    "bg": "http://www.yifysubtitles.com/subtitle-api/run-all-night-yify-49384.zip"
+  },
+  "bookmarked": false,
+  "watched": false,
+  "color": "rgba(205,194,59,0.96)",
+  "health": false,
+  "cast": {},
+  "textcolor": "#fff",
+  "seasonImages": {}
+}
